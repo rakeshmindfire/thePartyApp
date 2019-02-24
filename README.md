@@ -1,2 +1,2 @@
 # thePartyApp
-App for managing events and polls
+An application for managing events and track expenses
